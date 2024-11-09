@@ -70,7 +70,7 @@
 
 ###
 
-<h3 align="center">GitHub stats:</h3>
+<h3 align="center">📊 GitHub stats:</h3>
 
 ###
 
