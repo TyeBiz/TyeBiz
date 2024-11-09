@@ -78,13 +78,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=xhittxc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xhittxc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="105" alt="languages graph"  />
 </div>
+
+###
+
+<h3 align="center">You can support me with a donation</h3>
 <div align="center">
             <a href="https://ko-fi.com/Sasha" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
-                    align="center"
+                    align="left"
                 />
             </a></div>
 <br />
-
 ###
